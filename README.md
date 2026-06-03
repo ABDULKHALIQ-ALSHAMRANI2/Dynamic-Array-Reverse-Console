@@ -37,7 +37,4 @@ This mathematical mapping ensures that the pointer smoothly transitions from the
 * **Name:** ABDULKHALIQ ALSHAMRANI
 * **GitHub:** [ABDULKHALIQ-ALSHAMRANI2](https://github.com/ABDULKHALIQ-ALSHAMRANI2)
 * **Current Focus:** Completing my Web & Mobile Development Diploma
-## 👨‍💻 Author
-* **Name:** ABDULKHALIQ ALSHAMRANI
-* **GitHub:** [ABDULKHALIQ-ALSHAMRANI2](https://github.com/ABDULKHALIQ-ALSHAMRANI2)
-* **Current Focus:** Completing my Web & Mobile Development Diploma
+
