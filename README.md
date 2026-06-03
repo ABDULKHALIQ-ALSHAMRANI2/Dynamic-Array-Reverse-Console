@@ -9,11 +9,14 @@ Unlike standard static array exercises, this application takes a user-centered a
 
 The program is meticulously engineered to ensure that accidental inputs (like letters, symbols, or negative numbers) never cause a system crash.
 
+> 💡 **Pure Algorithmic Implementation:** This project explicitly avoids using the built-in `Array.Reverse()` shortcut. Instead, the array is reversed through a custom-built low-level logic loop to demonstrate a deep understanding of memory manipulation and pure algorithm design.
+
 ---
 
 ## 🚀 Key Engineering Features
 Here is what makes this specific implementation advanced:
 
+* **Pure Custom Reversing Logic:** Engineered a manual index-swapping algorithm from scratch, shunning ready-made high-level functions like `Array.Reverse()` to showcase core programming problem-solving skills.
 * **Dynamic Array Sizing:** Removed hardcoded bounds, allowing the application to allocate memory for the array at runtime based on user specification.
 * **Defensive Input Validation (`TryParse` Loops):** Implemented nested validation loops that intercept user input. If a user enters non-integer values or invalid bounds, the system handles it gracefully without throwing unhandled exceptions.
 * **Smart UI/UX Mapping (`i + 1`):** Bridged the gap between developer logic (0-based indexing) and human intuition (1-based indexing) by dynamically shifting display numbers during input prompts.
@@ -30,6 +33,10 @@ This mathematical mapping ensures that the pointer smoothly transitions from the
 
 ---
 
+## 👨‍💻 Author
+* **Name:** ABDULKHALIQ ALSHAMRANI
+* **GitHub:** [ABDULKHALIQ-ALSHAMRANI2](https://github.com/ABDULKHALIQ-ALSHAMRANI2)
+* **Current Focus:** Completing my Web & Mobile Development Diploma
 ## 👨‍💻 Author
 * **Name:** ABDULKHALIQ ALSHAMRANI
 * **GitHub:** [ABDULKHALIQ-ALSHAMRANI2](https://github.com/ABDULKHALIQ-ALSHAMRANI2)
